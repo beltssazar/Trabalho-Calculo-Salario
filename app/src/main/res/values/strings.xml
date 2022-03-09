@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Calcula Salário</string>
+    <string name="salario_bruto">Salário Bruto:</string>
+    <string name="valida_sb">Informe seu salário bruto</string>
+    <string name="num_dep">Número de Dependentes:</string>
+    <string name="valida_dep">Informe quantos dependentes</string>
+    <string name="tipo_ps">Tipo Plano Saúde:</string>
+    <string name="standard">Standard</string>
+    <string name="basico">Básico</string>
+    <string name="superr">Super</string>
+    <string name="master">Master</string>
+    <string name="vale_transp">Optante por VT?</string>
+    <string name="vt_sim">SIM</string>
+    <string name="vt_nao">NÃO</string>
+    <string name="vr_sim">SIM</string>
+    <string name="vr_nao">NÃO</string>
+    <string name="va_sim">SIM</string>
+    <string name="va_nao">NÃO</string>
+    <string name="vale_alim">Optante por VA?</string>
+    <string name="vale_ref">Optante por VR?</string>
+    <string name="salario_liq">Salário Líquido:</string>
+    <string name="desc_inss">O desconto sob o INSS é de: %1$5.2f</string>
+    <string name="desc_vt">O desconto sob o VT é de: %2$5.2f</string>
+    <string name="desc_vr">O desconto sob o VR é de: %3$5.2f</string>
+    <string name="desc_va">O desconto sob o VA é de: %4$5.2f</string>
+    <string name="desc_irrf">O desconto sob o IRRF é de: %5$5.2f</string>
+    <string name="desc_ps">O desconto sob o PS é de: %6$5.2f</string>
+    <string name="total_desc">Percentual de descontos: %7$5.2f</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="limpar">LIMPAR</string>
+    <string name="valida_vt">Informe a opção de VT</string>
+    <string name="valida_va">Informe a opção de VA</string>
+    <string name="valida_vr">Informe a opção de VR</string>
+    <string name="valida_ps">Informe o tipo do PS</string>
+
+</resources>
